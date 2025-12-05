@@ -1,5 +1,8 @@
 ## Hi there 👋
 * My name is Donovan Eyer, and this is my personal GitHub. I'll use this to post links to whatever projects I have worked on.
+## Where to find me
+* Github: https://github.com/DBeyer2003
+* LinkedIn: https://www.linkedin.com/in/donovan-eyer-35b83016b/
   
 <!--
 **DBeyer2003/DBeyer2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
