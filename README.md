@@ -9,6 +9,8 @@
 ## Recent Projects
 * Mock GameoMeter (IN PROGRESS): https://github.com/DBeyer2003/gameoMeter
 * RoomieConnect (Group Project, FRONT-END DESIGNER): https://github.com/DBeyer2003/RoomieConnect
+## Recent Experience
+* AI Agent Intern (NeuralSeek)
 ## Where to find me
 * Github: https://github.com/DBeyer2003
 * LinkedIn: https://www.linkedin.com/in/donovan-eyer-35b83016b/
