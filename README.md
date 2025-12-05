@@ -1,4 +1,4 @@
-### Greetings!
+# Greetings!
 * My name is Donovan Eyer, and this is my personal GitHub. I'll use this to post links to whatever projects I have worked on.
 ## Things That I Like To Do For Fun
 * Running
