@@ -3,7 +3,7 @@
 ## Things That I Like To Do For Fun
 * Running
 * Gaming (Mostly On My Hacked 3DS)
-* Discussing Movies
+* Discussing Movies (Alternate Ending is one of my favorite websites)
 * Making Applications (Of Course)
 * Drawing (Though I Just Started)
 ## Recent Projects
